@@ -1,0 +1,16 @@
+[
+{
+  "modid": "invadersgui",
+  "name": "InvadersGUI",
+  "description": "Utility mod for the Invaders game on Hypixel.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["ikmol (kybt)"],
+  "credits": "hummud",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
